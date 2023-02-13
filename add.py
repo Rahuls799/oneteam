@@ -1,3 +1,3 @@
-a=300
+a=250
 b=100
-print(a+b)
+print(a*b)
